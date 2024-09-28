@@ -1,1 +1,1 @@
-<span class="VuuXrf">MINECRAFT</span>
+<span class=>MINECRAFT</span>
