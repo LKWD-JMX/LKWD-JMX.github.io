@@ -46,10 +46,15 @@ button {
     cursor: pointer;
     width: 100%;
     border-radius: 4px;
+    margin-bottom: 10px;
 }
 
 button:hover {
     background-color: #0056b3;
+}
+
+.social-login {
+    text-align: center;
 }
 
 .error {
