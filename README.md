@@ -3,14 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Menú Home</title>
+    DISFRUTA DE ESTA APP
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <header>
         <nav class="navbar">
             <div class="logo">
-                <h1>Mi Sitio Web</h1>
+                <h1>JK-PLUS</h1>
             </div>
             <ul class="nav-links">
                 <li><a href="#">Inicio</a></li>
