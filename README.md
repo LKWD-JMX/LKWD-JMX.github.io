@@ -1,1 +1,1 @@
-<a href="https://lkwd-jmx.github.io/">JK-PLUS</a>
+<a href="https://lkwd-jmx.github.io/">LKWD-JMX</a>
