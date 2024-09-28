@@ -5,6 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Inicio de Sesión</title>
     <link rel="stylesheet" href="styles.css">
+    <!-- Agrega el script de Facebook SDK -->
+    <script async defer crossorigin="anonymous" src="https://connect.facebook.net/es_ES/sdk.js"></script>
 </head>
 <body>
     <div class="login-container">
@@ -19,6 +21,11 @@
             <button type="submit">Entrar</button>
             <p id="message" class="error"></p>
         </form>
+
+        <div class="social-login">
+            <button id="googleBtn">Iniciar sesión con Google</button>
+            <button id="fbBtn">Iniciar sesión con Facebook</button>
+        </div>
     </div>
 
     <script src="script.js"></script>
