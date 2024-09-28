@@ -1,1 +1,25 @@
-["el.cuervo.mx",">el.cuervo.mx</h2><div class="x9f619 xjbqb8w x78zum5 x168nmei x13lgxp2 x5pf9jr xo71vjh x1gslohp x1i64zmx x1n2onr6 x1plvlek xryxfnj x1c4vz4f x2lah0s xdt5ytf xqjyukv x1qjc9v5 x1oa3qoh x1nhvcw1"><svg aria-label="Verificado" class="x1lliihq x1n2onr6" fill="rgb(0, 149, 246)" height="18" role="img" viewBox="0 0 40 40" width="18"><title>Verificado</"]
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Panel de Control</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="sidebar">
+        <h2>Panel de Control</h2>
+        <ul>
+            <li><a href="#" onclick="showSection('dashboard')">Dashboard</a></li>
+            <li><a href="#" onclick="showSection('users')">Usuarios</a></li>
+            <li><a href="#" onclick="showSection('settings')">Configuraciones</a></li>
+        </ul>
+    </div>
+    <div class="content" id="content">
+        <h1>Bienvenido al Panel de Control</h1>
+        <p>Selecciona una opción del menú lateral.</p>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
