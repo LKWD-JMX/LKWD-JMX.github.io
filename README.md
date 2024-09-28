@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <nav class="navbar">
+        <nav class="link" href="/LKWD-JMX/LKWD-JMX.github.io/tree/main">">
             <div class="logo">
                 <h1>JK-PLUS</h1>
             </div>
