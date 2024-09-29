@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     DISFRUTA DE ESTA APP
-    <link rel="stylesheet" href="styles.css">
+    <link rel="https://lkwd-jmx.github.io/" href="https://lkwd-jmx.github.io/">
 </head>
 <body>
     <header>
